@@ -5,6 +5,11 @@ This repo is a "live" demo of how to perform topic modelling on a corpus of 3000
 	1. isolate the articles related to cancer and air pollution
 	2. only keep the 3000 most relevant articles to the "cancer + air pollution" subject
 
+### Result
+
+Check a working version of the notebook [here on NbViewer](http://nbviewer.jupyter.org/github/hrjn/demo-lda/blob/master/notebook.ipynb).
+
+
 ### Content
 
 Many things have been pre-computed: 
