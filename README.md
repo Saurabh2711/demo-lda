@@ -1,6 +1,6 @@
 ## Topic modelling, cancer and air pollution
 
-This repo is a "live" demo of how to perform topic modelling on a corpus of 3000 abstracts taken from scientific article metada. The articles are part of the [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) database, and the [metadata provided by Epidemium](http://epidemium.3do2.fr/files/pubmed/) was pre-processed to :
+This repo is a "live" demo of how to perform topic modelling on a corpus of 3000 abstracts taken from scientific article metadata. The articles are part of the [PubMed](http://www.ncbi.nlm.nih.gov/pubmed) database, and the [metadata provided by Epidemium](http://epidemium.3do2.fr/files/pubmed/) was pre-processed to :
 
 1. isolate the articles related to cancer and air pollution
 2. only keep the 3000 most relevant articles to the "cancer + air pollution" subject
